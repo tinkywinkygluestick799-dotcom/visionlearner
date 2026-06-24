@@ -50,3 +50,26 @@ git clone https://github.com/tinkywinkygluestick799-dotcom/visionlearner
 cd visionlearner
 pip install -r requirements.txt
 python train_advanced.py --model efficientnet
+efficientnet
+
+📁 Repository Structure
+visionlearner/
+├── train_advanced.py      # Main training script
+├── models.py              # Model definitions
+├── utils.py               # Helper functions
+├── requirements.txt       # Dependencies
+├── LICENSE                # MIT License
+├── README.md              # This file
+└── examples/              # Example notebooks
+    └── inference.ipynb
+
+📖 Citation
+@article{zafar2026visionlearner,
+  author = {Alishba Zafar},
+  title = {VisionLearner: A rigorous benchmark of CNN architectures for image classification},
+  year = {2026},
+  url = {https://github.com/tinkywinkygluestick799-dotcom/visionlearner}
+}
+
+👩‍🔬 Author
+Alishba Zafar – Portfolio · GitHub
